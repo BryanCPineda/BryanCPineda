@@ -20,8 +20,6 @@ const aboutMe = {
    currentOccupation: ["open for job opportunities"],
 };
 ```
-</br>
-
 - 🌱 I’m currently learning **Kotlin, Python**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
