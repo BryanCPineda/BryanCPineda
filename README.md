@@ -3,6 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryancpineda&label=Profile%20views&color=c29d19&style=flat" alt="bryancpineda" /> </p>
 
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "PostgreSQL"],
+   },
+   currentOccupation: ["open for job opportunities"],
+};
+```
+</br>
+
 - 🌱 I’m currently learning **Kotlin, Python**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
@@ -25,5 +44,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryancpineda&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryancpineda&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="bryancpineda" /></p>
-
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryancpineda&theme=dark" alt="bryancpineda" /></p>
