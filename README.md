@@ -16,7 +16,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "PostgreSQL"],
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["Tech Instructor at Henry"],
 };
 ```
 - 🌱 I’m currently learning **Kotlin, Python**
