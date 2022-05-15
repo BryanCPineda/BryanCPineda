@@ -1,4 +1,5 @@
-<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" atl="hello world"/>
+<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
+<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/camilopineda.svg">
 <h1 align="center">Hi 👋, I'm Bryan Pineda</h1>
 <h3 align="center">I am 28 years old Colombian who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
