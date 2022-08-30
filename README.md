@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/66718960/168454827-e8cd2493-f09d-4b51-a058-d576f437d3bc.gif" width="850" height="400">
 
-<h3 align="center">I am 29 years old Colombian who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
+<h3 align="center">I am 30 years old Colombian who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
 ```javascript
 const aboutMe = {
