@@ -30,7 +30,7 @@ const aboutMe = {
 
 - 📫 How to reach me **bpinedalopera@gmail.com**
 
-- 📄 Know about my experiences Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.](Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people.)
+- 📄 Know about my experiences Since 2018 I worked as an intern for the Valle del Cauca Department in Colombia, working as a developer in the project Architecture of the Digital Innovation Ecosystem AECINDI, adopted by the Valle del Cauca Department in Colombia as part of the technological development plan "Valle territorio inteligente e innovador". In this project I acquired a great sense of commitment, teamwork and respect for the diverse thoughts and attitudes of other people. 
 
 - ⚡ Fun fact **After many hours of writing code, I enter a state called "dumb time" which consists of an abstract state of constant illogical thinking talking to my brain about everything and nothing.**
 
